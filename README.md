@@ -12,8 +12,8 @@ Hi there! 👋 I'm Aditya Aayush, a recent graduate from Carnegie Mellon Univers
 - **[Language Modeling and Speech-to-Text with Transformers](https://github.com/aditya0520/Language-Modeling-and-Speech-to-Text-with-Transformers)**  
    Implemented transformer-based architectures for language modeling and speech-to-text tasks, focusing on scalability and accuracy for NLP applications.  
 
-- **[Currency Converter Application](https://github.com/aditya0520/Currency-Converter-Application)**  
-   Built an Android application with backend integration for real-time currency conversion. Created a web service hosted on Apache and utilized MongoDB for real-time analytics.  
+- **[Forecasting Household Power Consumption](https://github.com/aditya0520/Forecasting-Household-Power-Consumption)**  
+   Designed a robust pipeline for forecasting household power consumption using an LSTM model with MLflow for real-time inference and MLOps integration.  
 
 Feel free to explore my projects here or reach out for collaborations on software engineering or machine learning projects!  
 
