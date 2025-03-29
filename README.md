@@ -1,6 +1,6 @@
 # 💡 About Me
 
-Hi there! 👋 I'm Aditya Aayush, a recent graduate from Carnegie Mellon University with a specialization in Data Science and Machine Learning. I bring hands-on experience in designing scalable software solutions, building robust data pipelines, and optimizing workflows for efficiency. With a strong foundation in Python, SQL, and Java, I aim to bridge the gap between cutting-edge machine learning research and real-world applications.  
+Hi there! 👋 I'm Aditya Aayush, a graduate from Carnegie Mellon University specializing in Data Science and Machine Learning. I bring hands-on experience in designing scalable software solutions, building robust data pipelines, and optimizing workflows for efficiency. With a strong foundation in Python, SQL, and Java, I aim to bridge the gap between cutting-edge machine learning research and real-world applications.  
 
 ### 🚀 What I've Built  
 - **[Efficient Image Generation with Diffusion Models](https://github.com/aditya0520/DiffusionModels)**  
